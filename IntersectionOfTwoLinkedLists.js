@@ -31,5 +31,5 @@
   };
 
   var getLen = function (head) {
-    
+    var len = 0;
   };

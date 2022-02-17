@@ -17,6 +17,6 @@
     let diff = Math.abs(lenA - lenB);
 
     if (lenA > lenB) {
-        
+        while (diff--) headA = headA.next;
       }
   };

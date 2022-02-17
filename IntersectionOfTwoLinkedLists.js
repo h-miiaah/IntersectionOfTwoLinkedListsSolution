@@ -12,5 +12,5 @@
  * @return {ListNode}
  */
  var getIntersectionNode = function(headA, headB) {
-    
+    var lenA = getLen(headA);
   };

@@ -43,6 +43,7 @@
   /*
 
   - First calculate the difference between the lengths of the two linked lists.
+  - If the length of the first linked list is greater than the length of the second linked list, we move the head of the first linked list by the difference.
   
 
 

@@ -13,4 +13,5 @@
  */
  var getIntersectionNode = function(headA, headB) {
     var lenA = getLen(headA);
+    var lenB = getLen(headB);
   };

@@ -46,8 +46,7 @@
   - If the length of the first linked list is greater than the length of the second linked list, we move the head of the first linked list by the difference.
   - If the length of the second linked list is greater than the length of the first linked list, we move the head of the second linked list by the difference.
   - Now we move both the heads at the same speed until they collide.
-  
-
-
+  - The node where they collide is the intersection node.
 
   */
+ 

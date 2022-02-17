@@ -29,3 +29,7 @@
 
       return headA;
   };
+
+  var getLen = function (head) {
+    
+  };

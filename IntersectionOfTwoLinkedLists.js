@@ -24,5 +24,6 @@
 
       while (headA !== headB) {
         headA = headA.next;
+        headB = headB.next;
       }
   };

@@ -21,4 +21,8 @@
       } else {
         while (diff--) headB = headB.next;
       }
+
+      while (headA !== headB) {
+        
+      }
   };

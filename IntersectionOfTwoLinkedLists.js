@@ -18,5 +18,7 @@
 
     if (lenA > lenB) {
         while (diff--) headA = headA.next;
+      } else {
+        
       }
   };

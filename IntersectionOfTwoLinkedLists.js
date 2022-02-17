@@ -15,4 +15,8 @@
     var lenA = getLen(headA);
     var lenB = getLen(headB);
     let diff = Math.abs(lenA - lenB);
+
+    if (lenA > lenB) {
+        
+      }
   };

@@ -42,6 +42,7 @@
 
   /*
 
+  - First calculate the difference between the lengths of the two linked lists.
   
 
 

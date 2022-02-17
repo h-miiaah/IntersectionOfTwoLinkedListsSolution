@@ -23,6 +23,6 @@
       }
 
       while (headA !== headB) {
-        
+        headA = headA.next;
       }
   };

@@ -26,4 +26,6 @@
         headA = headA.next;
         headB = headB.next;
       }
+
+      return headA;
   };
